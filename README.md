@@ -1,31 +1,58 @@
-# Bienvenido a Mi perfil, Yo soy Camilo Cuervo☀️
+# Camilo Cuervo
 
- * Desarrollador Backend y de Aplicativos Web
- * Desde Medellin,Colombia
- * Interesado en iniciar mi vida laboral como desarollador
+<p align="center">
+  <img src="https://media1.tenor.com/m/HutYd8OWNWcAAAAd/guts-berserk.gif" alt="banner" />
+</p>
 
----
-
-## 🤓☝️Sobre Mi! 
-
-Soy Técnico en desarrollo de software del SENA(Servicio Nacional de Aprendizaje) en busca de practicas laborales.
-Apasionado por el mundo del desarrollo desde muy pequeño, me interese mucho por la logica de programacion, bases de datos y manejo de agentes AI.
-Me encanta trabajar con framework como laravel,DJango, .Net y actualmente me encuentro reforzando todos mis conocimientos de analisis de desarrollo y arquitecturas de diseño. 
+<p align="center">
+  Backend Developer · Web Applications  
+  <br>
+  Medellín, Colombia  
+</p>
 
 ---
 
-## 🧠 Mi Stack Actual:
+## About
 
-- 🛠️ Lenguajes,Frameworks y Herramientas:
-  - **Intermedio:** Laravel, Php, Html,Css,Livewire,Python,MySQL,Microsoft Workspace.
-  - **Básico:** JavaScript, DJango, .Net, Java, Tailwind, React, Lua, PowerBi, Linux.
+Software Development Technician (SENA) currently seeking internship opportunities.  
+Focused on backend development, system design, and database logic.
+
+Interested in building scalable applications and improving architecture and analysis skills.  
+Currently working with Laravel, Django, and .NET ecosystems.
 
 ---
 
-## Repositorios Actuales:
+## Stack
 
--🔗[Landing Page Con mi Informacion] https://milocuervo.github.io/LandingPages/ -Una pequeña pagina web donde muestro mi conocimiento en HTMX,CSS,JS. Se encuentra actualmente en deploy en GitHub Pages 
+- **Intermediate:** Laravel, PHP, HTML, CSS, Livewire, Python, MySQL  
+- **Basic:** JavaScript, Django, .NET, Java, Tailwind, React, Lua, Power BI, Linux  
 
--🔗[Sistema de Gestion de Casos] https://github.com/MiloCuervo/SistemadeGestion - Mi Proyecto de etapa lectiva!, sistema para la comision de personal de la institucion, construido en laravel 12 usando livewire 4 y ApexChart.
+---
 
--🔗[Sistema ERP Medico | Medicol] https://github.com/MiloCuervo/SistemaMedicoERP - Proyecto personal, busca solucionar todos los conflicotos actuales de la comunicacion entre modulos de una empresa de salud en colombia, En Desarrollo en DJango. 
+## Projects
+
+- **[Landing Page](https://milocuervo.github.io/LandingPages/)**  
+  Minimal personal site built with HTML, CSS and JavaScript. Deployed on GitHub Pages.
+
+- **[Case Management System](https://github.com/MiloCuervo/SistemadeGestion)**  
+  Academic project built with Laravel 12, Livewire 4 and ApexCharts.  
+  Designed for internal personnel management workflows.
+
+- **[Medical ERP (Medicol)](https://github.com/MiloCuervo/SistemaMedicoERP)**  
+  Personal project in progress. Focused on improving communication between modules in healthcare systems. Built with Django.
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiloCuervo&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloCuervo&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+---
+
+## Contact
+
+- LinkedIn: 
+- Email:
