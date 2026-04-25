@@ -1,6 +1,8 @@
 # Camilo Cuervo
 
-![banner](./assets/GutsBanner.jpg)
+<p align="center">
+  <img src="./GutsBanner.jpg" alt="banner" />
+</p>
 
 <p align="center">
   Backend Developer · Web Applications  
