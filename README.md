@@ -80,3 +80,4 @@ Proyecto de etapa lectiva. Sistema de gestión para la comisión de personal de 
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-MiloCuervo-181717?style=flat&logo=github)](https://github.com/MiloCuervo)
 > [![Landing](https://img.shields.io/badge/Web-milocuervo.github.io-4ade80?style=flat&logo=githubpages&logoColor=white)](https://milocuervo.github.io/LandingPages/)
+> [![Gmail](https://img.shields.io/badge/Gmail-Camilo.cuervojobs-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Camilo.cuervojobs@gmail.com)
