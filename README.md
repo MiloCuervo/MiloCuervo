@@ -1,6 +1,6 @@
 # Camilo Cuervo
 
-![banner]([https://media.giphy.com/media/tu-gif.gif](https://media1.tenor.com/m/HutYd8OWNWcAAAAd/guts-berserk.gif))
+![banner](https://tenor.com/view/guts-berserk-guts-sword-gif-2227971712070595943)
 
 <p align="center">
   Backend Developer · Web Applications  
