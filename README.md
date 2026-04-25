@@ -1,75 +1,82 @@
-<h1 align="center">Camilo Cuervo | Back-end Developer</h1>
+# Hi, I'm Camilo Cuervo ☀️
+**Backend Developer | Laravel & PHP | Django | Web Applications**
 
-<p align="center">
-  <img src="./GutsBanner.jpg" alt="banner" />
-</p>
-
-<p align="center">
-  Backend Developer · Web Applications  
-  <br>
-  Medellín, Colombia  
-</p>
+Técnico en Desarrollo de Software del SENA, apasionado por la lógica de programación, bases de datos y el manejo de agentes de IA. Construyo sistemas backend sólidos y funcionales — el frontend lo hago limpio y al punto. Actualmente buscando mis primeras prácticas laborales como desarrollador.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MiloCuervo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=MiloCuervo&theme=github_dark&hide_border=false)<br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MiloCuervo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Stack
+
+**Backend & Bases de Datos**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Herramientas & Otros**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 ---
 
-# ☀️ About Me:
+## 🚀 Proyectos Destacados
 
-Software Development Technician (SENA) currently seeking internship opportunities.  
-Focused on backend development, system design, and database logic.
+### 🌐 [Landing Page Personal](https://milocuervo.github.io/LandingPages/)
+Página web personal actualmente en deploy en GitHub Pages que demuestra mis conocimientos en tecnologías web modernas.
 
-Interested in building scalable applications and improving architecture and analysis skills.  
-Currently working with Laravel, Django, and .NET ecosystems.
+- Construida con HTMX, CSS y JavaScript vanilla
+- Deployed en GitHub Pages
 
----
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🏥 [Medicol — Sistema ERP Médico](https://github.com/MiloCuervo/SistemaMedicoERP)
+Sistema ERP personal para resolver los conflictos de comunicación entre módulos de empresas de salud en Colombia. Construido en Django.
+
+- Gestión integral de módulos médicos (pacientes, citas, facturación)
+- Arquitectura orientada a resolver problemas reales del sector salud colombiano
+- En desarrollo activo
+
+### 📋 [Sistema de Gestión de Casos](https://github.com/MiloCuervo/SistemadeGestion)
+Proyecto de etapa lectiva. Sistema de gestión para la comisión de personal de una institución educativa.
+
+- Gestión de casos con seguimiento de estados
+- Dashboard con gráficas interactivas mediante ApexCharts
+- Construido con Laravel 12, Livewire 4 y ApexCharts
 
 ---
 
-## Projects
+## 🎓 Formación
 
-- **[Landing Page](https://milocuervo.github.io/LandingPages/)**  
-  Minimal personal site built with HTML, CSS and JavaScript. Deployed on GitHub Pages.
-
-- **[Case Management System](https://github.com/MiloCuervo/SistemadeGestion)**  
-  Academic project built with Laravel 12, Livewire 4 and ApexCharts.  
-  Designed for internal personnel management workflows.
-
-- **[Medical ERP (Medicol)](https://github.com/MiloCuervo/SistemaMedicoERP)**  
-  Personal project in progress. Focused on improving communication between modules in healthcare systems. Built with Django.
+- **Técnico en Análisis y Desarrollo de Software** — SENA, 2025
+- Aprendizaje continuo e independiente en arquitecturas de software e IA
 
 ---
 
+## 🌎 Idiomas
 
+- **Español** — Nativo
+- **Inglés** — Básico
 
+---
+
+## 📬 Contacto
+
+> 💼 Buscando prácticas laborales como Desarrollador Backend / Web
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-MiloCuervo-181717?style=flat&logo=github)](https://github.com/MiloCuervo)
+> [![Landing](https://img.shields.io/badge/Web-milocuervo.github.io-4ade80?style=flat&logo=githubpages&logoColor=white)](https://milocuervo.github.io/LandingPages/)
