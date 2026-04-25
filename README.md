@@ -1,8 +1,6 @@
 # Camilo Cuervo
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/HutYd8OWNWcAAAAd/guts-berserk.gif" alt="banner" />
-</p>
+![banner]([https://media.giphy.com/media/tu-gif.gif](https://media1.tenor.com/m/HutYd8OWNWcAAAAd/guts-berserk.gif))
 
 <p align="center">
   Backend Developer · Web Applications  
@@ -52,7 +50,3 @@ Currently working with Laravel, Django, and .NET ecosystems.
 
 ---
 
-## Contact
-
-- LinkedIn: 
-- Email:
